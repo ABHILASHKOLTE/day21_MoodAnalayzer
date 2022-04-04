@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.MoodAnalyzer.MoodAnalyzerTestUc3" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-04T13:11:30" hostname="LAPTOP-ASUSF15-" time="0.014">
+  <properties/>
+  <testcase name="testMoodAnalysis_whenMoodIsEmpty_ShouldThrowException()" classname="com.bridgelabz.MoodAnalyzer.MoodAnalyzerTestUc3" time="0.014"/>
+  <system-out><![CDATA[com.bridgelabz.MoodAnalyzer.MoodAnalysisException: Please enter proper message!
+ENTERED_EMPTY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
